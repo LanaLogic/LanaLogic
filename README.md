@@ -74,8 +74,8 @@ I work at the intersection of **business & technology**:
 
 ## 📫 Contact
 
-- Telegram: (добавь ссылку)
-- GitHub: [https://github.com/Troya-34](https://github.com/LanaLogic)
+- Telegram: @Sveta_34
+- GitHub: https://github.com/LanaLogic
 
 ---
 
