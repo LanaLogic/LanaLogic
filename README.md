@@ -87,11 +87,6 @@ I work at the intersection of **business & technology**:
 
 ⭐ Let's turn routine into profit
 
-## 📫 Контакты
-
-- Telegram: (добавь ссылку)  
-- GitHub: https://github.com/LanaLogic  
-
 ---
 
 ## 📊 GitHub Статистика
@@ -110,4 +105,3 @@ I work at the intersection of **business & technology**:
 
 ---
 
-⭐ Давайте превращать рутину в прибыль
