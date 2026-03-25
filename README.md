@@ -87,17 +87,27 @@ I work at the intersection of **business & technology**:
 
 ⭐ Let's turn routine into profit
 
-<!--
-**LanaLogic/LanaLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Контакты
 
-Here are some ideas to get you started:
+- Telegram: (добавь ссылку)  
+- GitHub: https://github.com/LanaLogic  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LanaLogic&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaLogic&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LanaLogic" />
+</p>
+
+---
+
+⭐ Давайте превращать рутину в прибыль
