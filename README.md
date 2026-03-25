@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="README.ru.md">🇷🇺 Русский</a>
+</p>
+
+
 # 👋 Hi, I'm LanaLogic
 
 💡 AI Developer & Prompt Engineer  
