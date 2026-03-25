@@ -80,11 +80,28 @@ Telegram-бот с AI-ассистентом (Salebot + LLM)
 
 ---
 
+⭐ Давайте превращать рутину в прибыль
+
 ## 📫 Контакты
 
-- Telegram: @Sveta_34 
-- GitHub: https://github.com/LanaLogic
+- Telegram: (добавь ссылку)  
+- GitHub: https://github.com/LanaLogic  
 
 ---
 
-⭐ Давайте превращать рутину в прибыль
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LanaLogic&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaLogic&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LanaLogic" />
+</p>
+
+---
+
