@@ -4,7 +4,7 @@
 </p>
 
 
-# 👋 Hi, I'm LanaLogic
+# 👋 Hi, I'm Svetlana
 
 💡 AI Developer & Prompt Engineer  
 ⚙️ Automating business processes & building AI assistants  
